@@ -23,7 +23,7 @@ public class PangiamHomePageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
 driver.get("https://www.amazon.com/");
-//?
+//
 
 
     }
