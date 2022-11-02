@@ -1,7 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="suit">
-    <test name="testname">
-        <classes><class name="pangiamHomePage.PangiamHomePageTest"></class></classes>
-    </test>
-
-</suite>
